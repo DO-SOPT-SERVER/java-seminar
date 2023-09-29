@@ -1,3 +1,5 @@
+package abstraction;
+
 public abstract class Poketmon {
     String name;
     PoketmonType type;

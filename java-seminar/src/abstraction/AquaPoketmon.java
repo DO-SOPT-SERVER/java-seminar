@@ -1,4 +1,6 @@
-public class AquaPoketmon extends Poketmon{
+package abstraction;
+
+public class AquaPoketmon extends Poketmon {
     public AquaPoketmon(String name) {
         super(name, PoketmonType.AQUA);
     }
